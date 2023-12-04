@@ -1,0 +1,7 @@
+game_product_id,pack_name,pack_des,limit_number,reset_type,resource_type,resource_id,resource_value,is_free
+gem_pack_1,gem_pack_1_name,gem_pack_1_des,-1,weekly,money,1,6000,
+gem_pack_2,gem_pack_2_name,gem_pack_2_des,-1,weekly,money,1,18000,
+gem_pack_3,gem_pack_3_name,gem_pack_3_des,-1,weekly,money,1,42000,
+gem_pack_4,gem_pack_4_name,gem_pack_4_des,-1,weekly,money,1,96000,
+gem_pack_5,gem_pack_5_name,gem_pack_5_des,-1,weekly,money,1,270000,
+gem_pack_6,gem_pack_6_name,gem_pack_6_des,-1,weekly,money,1,600000,
